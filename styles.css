@@ -401,7 +401,7 @@ h1 em {
   display: block;
   height: 54px;
   margin: -4px 0 10px;
-  background: url("images/logo-multimaxi.jpeg") left center / contain no-repeat;
+  background: url("logo-multimaxi.jpeg") left center / contain no-repeat;
 }
 
 .product-card.is-hidden,
